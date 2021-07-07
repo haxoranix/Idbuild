@@ -1,5 +1,5 @@
 # KIIT-digital-id-card-builder
-© 2021 KIIT Digital ID Card Builder | Developed by Aryamitra Chaudhuri
+© 2021 KIIT Digital ID Card Builder | Developed by Aryamitra Chaudhuri <br>
 This project is copyrighted by the author, you're requested not to clone or fork this.
 
 # NOTE
