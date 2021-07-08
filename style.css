@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
 body{
-    height: 100vh;
     scroll-behavior: smooth;
     background: rgb(255,255,255);
 background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(221,221,221,1) 100%);
