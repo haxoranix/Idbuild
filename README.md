@@ -1,4 +1,6 @@
 # KIIT Digital ID Card Builder v1.0.0
+![image](https://user-images.githubusercontent.com/79497113/151593953-85951a64-1bed-458c-b2ad-4838c2c085d1.png)
+
 © 2021 KIIT Digital ID Card Builder | Developed by Aryamitra Chaudhuri <br>
 This project is copyrighted by the author, you're requested not to clone or fork this.
 
