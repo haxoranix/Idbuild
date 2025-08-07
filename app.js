@@ -43,6 +43,7 @@ function toggle(){
          <p style="text-transform: uppercase; font-weight: bold; font-family: Georgia, 'Times New Roman', Times, serif;">:  ${inputfields["branch"].value} </p>
          <p style="text-transform: uppercase; font-weight: bold; font-family: Georgia, 'Times New Roman', Times, serif;">:  ${inputfields["roll"].value} </p>
          <p style="text-transform: uppercase; font-weight: bold; font-family: Georgia, 'Times New Roman', Times, serif;">:  ${inputfields["studentnumber"].value} </p>
+         <p style="text-transform: uppercase; font-weight: bold; font-family: Georgia, 'Times New Roman', Times, serif;">:  ${inputfields["expiry"].value} </p>
          `
                       };
 
@@ -65,3 +66,4 @@ function toggle1(){
         }
 
       }
+
