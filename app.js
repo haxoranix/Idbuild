@@ -5,6 +5,7 @@ btnPreview.addEventListener('click', () => {
     && inputfields["roll"].value != ""
     && inputfields["studentnumber"].value != ""
     && inputfields["branch"].value != ""
+       && inputfields["expiry"].value != ""
     && inputfields["schoolname"].value != ""
     && inputfields["course"].value != ""){
         if(btnPreview.innerText == "Edit"){
@@ -62,4 +63,5 @@ function toggle1(){
           preview.src = src;
           preview.style.display = "block";
         }
+
       }
